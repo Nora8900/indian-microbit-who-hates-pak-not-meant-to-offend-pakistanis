@@ -32,7 +32,7 @@ input.onGesture(Gesture.Shake, function () {
     basic.showString("CHILL")
 })
 music._playDefaultBackground(music.builtInPlayableMelody(Melodies.Nyan), music.PlaybackMode.LoopingInBackground)
-basic.showString("i dont like pak. just my opinion")
+basic.showString("i dont like pak. jmo")
 basic.clearScreen()
 basic.forever(function () {
 	
