@@ -34,6 +34,3 @@ input.onGesture(Gesture.Shake, function () {
 music._playDefaultBackground(music.builtInPlayableMelody(Melodies.Nyan), music.PlaybackMode.LoopingInBackground)
 basic.showString("i dont like pak. jmo")
 basic.clearScreen()
-basic.forever(function () {
-	
-})
